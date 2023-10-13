@@ -1,0 +1,8 @@
+{
+    "script": "dist/index.js",
+    "watch": ["src"],
+    "watch_options": {
+        "followSymlinks": false
+    },
+    "name": "ITPKaraoke"
+  }
